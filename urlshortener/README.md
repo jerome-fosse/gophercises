@@ -1,6 +1,6 @@
 # Exercise #2: URL Shortener
 
-[![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/urlshort)
+[![exercise status: todo](https://img.shields.io/badge/EXERCISE%20STATUS-TODO-yellow.svg?style=for-the-badge)](https://gophercises.com/exercises/urlshort)
 
 
 
